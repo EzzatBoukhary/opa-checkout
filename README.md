@@ -43,7 +43,7 @@ Kept the architecture simple and component-based to keep things readable and eas
 
 1. Clone the repo:
    ```bash
-   git clone [https://github.com/your-username/checkout-screen-demo.git](https://github.com/EzzatBoukhary/opa-checkout.git)
+   git clone https://github.com/EzzatBoukhary/opa-checkout.git
    cd checkout-screen-demo
 
 2. Install dependencies: npm install
